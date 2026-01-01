@@ -1,0 +1,8 @@
+{
+  "name": "RWANDA MINING",
+  "description": "A modern, secure, and engaging online mining game platform where users can mine digital assets and manage their earnings with a premium black and yellow aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
